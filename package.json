@@ -1,0 +1,13 @@
+{
+  "name": "molly-auth",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "molly": "^1.6.7"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.1",
+    "@types/node": "^12.0.7",
+    "@types/joi": "^14.3.3"
+  }
+}
